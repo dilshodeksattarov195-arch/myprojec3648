@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachevarse",
+        "uuid": 11793984,
+        "checksum": "s2dqpc"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
